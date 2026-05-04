@@ -2,7 +2,7 @@
 File: Lesson 5.3 - Add/remove
 Author: Stephen Li
 Date Created: May 1, 2026
-Date Last Modified: May 1, 2026
+Date Last Modified: May 4, 2026
 */
 
 public class PracticeProblem {
